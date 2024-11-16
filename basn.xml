@@ -1,1 +1,9 @@
+import "qt6"
+window{
+rectangle{
+id: bas
+width:400
+hight:1000
+color:"red"
+}}
 "basil is car maker" 
