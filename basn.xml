@@ -5,5 +5,7 @@ id: bas
 width:400
 hight:1000
 color:"red"
+x:500
+y:1000
 }}
 "basil is car dot" 
