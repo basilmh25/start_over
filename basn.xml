@@ -7,3 +7,9 @@ hight:1000
 color:"red"
 }}
 "basil is car maker" 
+circle{
+    id : main
+    width: 500
+    hight: 800
+    color :gray
+}
