@@ -5,8 +5,10 @@ id: bas
 width:400
 hight:1000
 color:"red"
+x:500
+y:1000
 }}
-"basil is car maker" 
+"basil is car dot" 
 circle{
     id : main
     width: 500
